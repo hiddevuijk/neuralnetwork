@@ -1,0 +1,7 @@
+-- make neuron child of network, s.t. tranfer funcs. and output func. are members
+	of network and the output func is a input to the constructor of the network.
+-- add learning loop as member func. of the network. plus randon number generator.
+-- add batch learning?
+-- add split to neuralNet.h
+
+
